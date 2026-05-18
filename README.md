@@ -1,15 +1,14 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+clean+%26+scalable+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raja+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+clean+%26+scalable+web+apps)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rajasekharreddychintha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://YOUR_PORTFOLIO.dev"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rajasreddy.chintha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=iamrajac&style=flat-square&color=58A6FF" alt="profile views" />
 
 </div>
 
@@ -17,9 +16,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **[YOUR_PROJECT]** — a brief one-liner about what it does
-- 🌱 Learning **[something new — e.g. Next.js 14 App Router / tRPC / Bun]**
-- 💼 Open to **freelance projects & full-time roles**
+- 🔭 Currently building **[Pickleball site for group of friends for updating scores in real time and more]**
+- 🌱 Learning **[Backend]**
 - ⚡ Fun fact: I write cleaner code after a good cup of chai ☕
 
 ---
@@ -55,14 +53,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrajac&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajac&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamrajac&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -72,9 +70,9 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Project One** | Short punchy description of what it does and why it matters | React · Node · MongoDB | [Live](https://your-link.vercel.app) · [Repo](https://github.com/YOUR_USERNAME/project-one) |
-| **Project Two** | Short punchy description of what it does and why it matters | Next.js · Tailwind · Prisma | [Live](https://your-link.vercel.app) · [Repo](https://github.com/YOUR_USERNAME/project-two) |
-| **Project Three** | Short punchy description of what it does and why it matters | TypeScript · Express · REST API | [Live](https://your-link.vercel.app) · [Repo](https://github.com/YOUR_USERNAME/project-three) |
+| **Pickleball** | A highly interactive, real-time, offline-capable progressive web application built with React and Vite to manage round-robin pickleball tournaments. | React · Vite · JS | [Live](https://pickleball-eosin.vercel.app) · [Repo](https://github.com/iamrajac/Pickleball) |
+| **NoteVault** | NoteVault is a modern, real-time collaborative workspace web application. It features real-time note editing, workspace management, task tracking, interactive knowledge graphs, and workspace audting trails. | Next.js · Tailwind · Prisma · MySQL| [Live](https://your-link.vercel.app) · [Repo](https://github.com/iamrajac/NoteVault) |
+| **project3** | Short punchy description of what it does and why it matters | TypeScript · Express · REST API | [Live](https://your-link.vercel.app) · [Repo](https://github.com/YOUR_USERNAME/project-three) |
 
 ---
 
@@ -82,7 +80,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrajac&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
