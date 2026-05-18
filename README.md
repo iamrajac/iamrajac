@@ -8,16 +8,14 @@
   <a href="mailto:rajasreddy.chintha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=iamrajac&style=flat-square&color=58A6FF" alt="profile views" />
-
 </div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently building **[Pickleball site for group of friends for updating scores in real time and more]**
-- 🌱 Learning **[Backend]**
+- 🔭 Currently building **Pickleball site for group of friends for updating scores in real time and more**
+- 🌱 Learning...
 - ⚡ Fun fact: I write cleaner code after a good cup of chai ☕
 
 ---
@@ -72,7 +70,6 @@
 |---|---|---|---|
 | **Pickleball** | A highly interactive, real-time, offline-capable progressive web application built with React and Vite to manage round-robin pickleball tournaments. | React · Vite · JS | [Live](https://pickleball-eosin.vercel.app) · [Repo](https://github.com/iamrajac/Pickleball) |
 | **NoteVault** | NoteVault is a modern, real-time collaborative workspace web application. It features real-time note editing, workspace management, task tracking, interactive knowledge graphs, and workspace audting trails. | Next.js · Tailwind · Prisma · MySQL| [Live](https://your-link.vercel.app) · [Repo](https://github.com/iamrajac/NoteVault) |
-| **project3** | Short punchy description of what it does and why it matters | TypeScript · Express · REST API | [Live](https://your-link.vercel.app) · [Repo](https://github.com/YOUR_USERNAME/project-three) |
 
 ---
 
