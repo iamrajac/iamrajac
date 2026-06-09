@@ -51,7 +51,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrajac&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrajac&show_icons=true&theme=github_dark&hide_border=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajac&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
 </div>
