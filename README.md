@@ -68,7 +68,7 @@
 
 | Project | Description | Stack | Links |
 |---|---|---|---|
-| **Pickleball** | A highly interactive, real-time, offline-capable progressive web application built with React and Vite to manage round-robin pickleball tournaments. | React · Vite · JS | [Live](https://pickleball-eosin.vercel.app) · [Repo](https://github.com/iamrajac/Pickleball) |
+| **Pickleball** | Real-time multiplayer tournament manager — round-robin scheduling, live score sync, playoffs, career stats, club system, and H2H analytics. | React · Vite · JS | [Live](https://pickleball-eosin.vercel.app) · [Repo](https://github.com/iamrajac/Pickleball) |
 | **NoteVault** | NoteVault is a modern, real-time collaborative workspace web application. It features real-time note editing, workspace management, task tracking, interactive knowledge graphs, and workspace audting trails. | Next.js · Tailwind · Prisma · MySQL| [Live](https://notevault-dev.vercel.app) · [Repo](https://github.com/iamrajac/NoteVault) |
 
 ---
