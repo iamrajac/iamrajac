@@ -1,90 +1,79 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raja+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+clean+%26+scalable+web+apps)](https://git.io/typing-svg)
+# Raja
+
+**Full-Stack Developer · I build real-time web apps**
+
+[![Open to full-time roles](https://img.shields.io/badge/Open_to-full--time_roles-22c55e?style=for-the-badge)](mailto:rajasreddy.chintha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajasekharreddychintha)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://iamrajac.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasreddy.chintha@gmail.com)
+
+</div>
+
+I build full-stack products end to end, from database schema and API design to the UI, tests and deployment. I'm most interested in software people use together in real time: collaborative editors, live scoreboards and team workspaces. I care about shipping things that are secure, tested and actually running in production.
+
+## Featured work
+
+<table>
+  <tr>
+    <td colspan="3">
+      <h3><a href="https://github.com/iamrajac/NoteVault">NoteVault</a> · collaborative workspace for teams</h3>
+      <a href="https://github.com/iamrajac/NoteVault"><img src="https://raw.githubusercontent.com/iamrajac/NoteVault/main/docs/screenshots/dashboard.png" alt="NoteVault dashboard" width="100%"></a>
+      <ul>
+        <li>Real-time co-editing of notes with <b>Yjs CRDTs over Socket.IO</b>, so simultaneous edits merge without conflicts</li>
+        <li>Approval workflow with version history, tasks, milestones, notifications and role-based access for Admins, Team Leads and Employees</li>
+        <li>JWT auth with server-side permission checks, rate limiting, one-time email links for invites and password resets</li>
+        <li><b>36 automated integration tests</b> against a real MySQL, CI on every push, deployed on Vercel + Render + MySQL</li>
+      </ul>
+      <code>Next.js</code> <code>TypeScript</code> <code>Express</code> <code>Socket.IO</code> <code>Yjs</code> <code>Prisma</code> <code>MySQL</code>
+      &nbsp;·&nbsp; <a href="https://notevault-dev.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/iamrajac/NoteVault">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/iamrajac/Pickleball">Pickleball</a></h4>
+      Real-time tournament manager: round-robin scheduling, live score sync, playoffs, career stats, clubs and head-to-head analytics. Installable as an app.
+      <br/><br/>
+      <code>React</code> <code>Firebase</code> <code>PWA</code>
+      <br/><a href="https://pickleball-eosin.vercel.app">Live demo</a> · <a href="https://github.com/iamrajac/Pickleball">Code</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/iamrajac/distributed-job-scheduler">Distributed Job Scheduler</a></h4>
+      Job queue platform: workers atomically claim jobs, with retry and backoff strategies, a dead-letter queue, REST APIs and a monitoring dashboard.
+      <br/><br/>
+      <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code>
+      <br/><a href="https://github.com/iamrajac/distributed-job-scheduler">Code</a>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://github.com/iamrajac/PHaRMIS">PHaRMIS</a></h4>
+      Personal health monitoring: users track their health details, see trends in charts and get AI-driven insights.
+      <br/><br/>
+      <code>TypeScript</code> <code>React</code> <code>Node.js</code>
+      <br/><a href="https://p-ha-rmis.vercel.app">Live demo</a> · <a href="https://github.com/iamrajac/PHaRMIS">Code</a>
+    </td>
+  </tr>
+</table>
+
+## Tech
 
 <p>
-  <a href="https://linkedin.com/in/rajasekharreddychintha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://iamrajac.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:rajasreddy.chintha@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,nodejs,express,mysql,postgres,prisma,firebase,docker,githubactions,vercel,git&perline=16" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, Node.js, Express, MySQL, PostgreSQL, Prisma, Firebase, Docker, GitHub Actions, Vercel, Git" />
 </p>
 
-</div>
+Also: Socket.IO, WebSockets and CRDTs (Yjs), REST API design, JWT auth, automated testing, CI/CD.
 
----
+## GitHub activity
 
-## 🧑‍💻 About Me
-
-- 🔭 Currently building **Pickleball site for group of friends for updating scores in real time and more**
-- 🌱 Learning...
-- ⚡ Fun fact: I write cleaner code after a good cup of chai ☕
-
----
-
-## 🛠️ Tech Stack
-
-#### Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamrajac&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamrajac&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamrajac&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Pickleball** | Real-time multiplayer tournament manager — round-robin scheduling, live score sync, playoffs, career stats, club system, and H2H analytics. | React · Vite · JS | [Live](https://pickleball-eosin.vercel.app) · [Repo](https://github.com/iamrajac/Pickleball) |
-| **NoteVault** | NoteVault is a modern, real-time collaborative workspace web application. It features real-time note editing, workspace management, task tracking, interactive knowledge graphs, and workspace audting trails. | Next.js · Tailwind · Prisma · MySQL| [Live](https://notevault-dev.vercel.app) · [Repo](https://github.com/iamrajac/NoteVault) |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrajac&theme=github-compact&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" height="165" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" height="165" />
+</p>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code." — John Johnson*
+**Looking for a full-time full-stack role.** If you're building something people use together, [let's talk](mailto:rajasreddy.chintha@gmail.com).
 
 </div>

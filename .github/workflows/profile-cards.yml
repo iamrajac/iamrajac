@@ -1,0 +1,21 @@
+# Regenerates the GitHub stats cards shown in README.md once a day.
+# The SVGs are committed to profile-summary-card-output/, so the README never depends on an outside service.
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
