@@ -17,40 +17,39 @@ I build full-stack products end to end, from database schema and API design to t
 
 <table>
   <tr>
-    <td colspan="3">
-      <h3><a href="https://github.com/iamrajac/NoteVault">NoteVault</a> · collaborative workspace for teams</h3>
-      <a href="https://github.com/iamrajac/NoteVault"><img src="https://raw.githubusercontent.com/iamrajac/NoteVault/main/docs/screenshots/dashboard.png" alt="NoteVault dashboard" width="100%"></a>
+    <td width="32%" valign="top" align="center">
+      <a href="https://pickleball-eosin.vercel.app"><img src="./assets/pickleball.png" alt="Pickleball tournament manager app" width="230"></a>
+    </td>
+    <td valign="top">
+      <h3><a href="https://github.com/iamrajac/Pickleball">Pickleball</a> · real-time tournament manager</h3>
+      <p>Replaces paper scoresheets for my group's pickleball sessions: every score syncs live to every phone at the court.</p>
       <ul>
-        <li>Real-time co-editing of notes with <b>Yjs CRDTs over Socket.IO</b>, so simultaneous edits merge without conflicts</li>
-        <li>Approval workflow with version history, tasks, milestones, notifications and role-based access for Admins, Team Leads and Employees</li>
-        <li>JWT auth with server-side permission checks, rate limiting, one-time email links for invites and password resets</li>
-        <li><b>36 automated integration tests</b> against a real MySQL, CI on every push, deployed on Vercel + Render + MySQL</li>
+        <li><b>Live sync</b> across all devices with Firebase Realtime Database: spectators join with a code or link, with a live viewer count and offline detection</li>
+        <li><b>Fair scheduling</b> for 4–20 players: round-robin that prioritises new partners and opponents, rotating byes for odd counts, and playoff brackets chosen automatically by player count</li>
+        <li><b>Player profiles</b> with Google Sign-In, career stats, badges, head-to-head records and clubs</li>
+        <li><b>Access control</b> for creators, scorers (PIN), spectators and guests; installable as an app (PWA) with push notifications</li>
       </ul>
-      <code>Next.js</code> <code>TypeScript</code> <code>Express</code> <code>Socket.IO</code> <code>Yjs</code> <code>Prisma</code> <code>MySQL</code>
-      &nbsp;·&nbsp; <a href="https://notevault-dev.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/iamrajac/NoteVault">Code</a>
+      <code>React</code> <code>Vite</code> <code>Firebase</code> <code>Firestore</code> <code>Cloud Functions</code> <code>PWA</code>
+      <br/><br/><a href="https://pickleball-eosin.vercel.app"><b>Live app</b></a> · <a href="https://github.com/iamrajac/Pickleball">Code</a>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/iamrajac/Pickleball">Pickleball</a></h4>
-      Real-time tournament manager: round-robin scheduling, live score sync, playoffs, career stats, clubs and head-to-head analytics. Installable as an app.
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/iamrajac/NoteVault">NoteVault</a></h3>
+      Collaborative workspace for teams. Notes are co-edited in real time with <b>Yjs CRDTs over Socket.IO</b>, go through an approval workflow with version history, and turn into tasks and milestones. Role-based access, email invites, <b>36 automated tests</b> and CI on every push.
       <br/><br/>
-      <code>React</code> <code>Firebase</code> <code>PWA</code>
-      <br/><a href="https://pickleball-eosin.vercel.app">Live demo</a> · <a href="https://github.com/iamrajac/Pickleball">Code</a>
+      <code>Next.js</code> <code>TypeScript</code> <code>Express</code> <code>Socket.IO</code> <code>Prisma</code> <code>MySQL</code>
+      <br/><a href="https://notevault-dev.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/iamrajac/NoteVault">Code</a>
     </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/iamrajac/distributed-job-scheduler">Distributed Job Scheduler</a></h4>
-      Job queue platform: workers atomically claim jobs, with retry and backoff strategies, a dead-letter queue, REST APIs and a monitoring dashboard.
-      <br/><br/>
-      <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code>
-      <br/><a href="https://github.com/iamrajac/distributed-job-scheduler">Code</a>
-    </td>
-    <td width="33%" valign="top">
-      <h4><a href="https://github.com/iamrajac/PHaRMIS">PHaRMIS</a></h4>
-      Personal health monitoring: users track their health details, see trends in charts and get AI-driven insights.
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/iamrajac/PHaRMIS">PHaRMIS</a></h3>
+      Personal health monitoring app. Users track their health details, see their trends in charts and get AI-driven insights, all without needing a doctor or admin in the loop.
       <br/><br/>
       <code>TypeScript</code> <code>React</code> <code>Node.js</code>
-      <br/><a href="https://p-ha-rmis.vercel.app">Live demo</a> · <a href="https://github.com/iamrajac/PHaRMIS">Code</a>
+      <br/><a href="https://p-ha-rmis.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/iamrajac/PHaRMIS">Code</a>
     </td>
   </tr>
 </table>
